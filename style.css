@@ -17,3 +17,26 @@
     display: inline-block;
     padding: 24px;
 }
+.estudante-íncone{
+    width: 16px; 
+    padding: 4px 8px;
+}
+.estudante-conteúdo-div{
+    text-align: center;
+}
+.escola-título{
+    padding: 50px 0;
+    text-align: center;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.rodapé{
+    background-color: black;
+    text-align: center;
+}
+.rodapé-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
